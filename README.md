@@ -25,7 +25,7 @@ Me apasiona la robótica y la programación. Me interesé por la informática no
 ## 📊 ESTADÍSTICAS
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=adrperes&show_icons=true&theme=tokyonight&count_private=true)
 
----
+
 
 ## 📫 CONTACTO 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/adriana-perez-alvarez-8191b0369/)
