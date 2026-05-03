@@ -1,12 +1,4 @@
-
-
-## Estudiante de Ingeniería Informática en la Universidad de León
-  
-## ACERCA DE MÍ 👩🏽‍💻
-
-Soy una estudiante de informática a la que le apasiona la robótica y la programación. Me encanta aprender cosas nuevas y sobre todo me motiva el reto de tener siempre una meta nueva que alcanzar y un problema complejo que solucionar.
-
-# ¡Hola! Soy Adriana Pérez Álvarez 👋
+#¡Hola! Soy Adriana Pérez Álvarez 👋
 
 ### * Estudiante de Ingeniería Informática en la Universidad de León
 
@@ -14,6 +6,7 @@ Soy una estudiante de informática a la que le apasiona la robótica y la progra
 
 Me apasiona la robótica y la programación. Me interesé por la informática no solo por la tecnología en sí, sino por el reto constante de tener siempre una meta nueva que alcanzar y la satisfacción de aprender algo distinto en cada proyecto.🤖
 
+---
 
 ##  Tecnologías y Herramientas
 
