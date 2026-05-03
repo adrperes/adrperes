@@ -1,7 +1,5 @@
 # ¡Hola! Soy Adriana Pérez Álvarez 👋
 
-### Estudiante de Ingeniería Informática en la Universidad de León
-
 ## ACERCA DE MÍ 👩🏽‍💻
 
 Me apasiona la robótica y la programación. Me interesé por la informática no solo por la tecnología en sí, sino por el reto constante de tener siempre una meta nueva que alcanzar y la satisfacción de aprender algo distinto en cada proyecto.🤖
