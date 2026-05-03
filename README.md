@@ -32,7 +32,7 @@ Me apasiona la robótica y la programación. Me interesé por la informática no
 ---
 
 ## 📫 CONTACTO 
-- **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/adriana-perez-alvarez-8191b0369/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/adriana-perez-alvarez-8191b0369/)
 - **Email unileon:** [aperea16@estudiantes.unileon.es](mailto:aperea16@estudiantes.unileon.es)
 - **Email personal:** [adriana.perezz.alvarez@gmail.es](mailto:adriana.perezz.alvarez@gmail.es)
   
