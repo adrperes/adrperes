@@ -1,6 +1,6 @@
-#¡Hola! Soy Adriana Pérez Álvarez 👋
+# ¡Hola! Soy Adriana Pérez Álvarez 👋
 
-### * Estudiante de Ingeniería Informática en la Universidad de León
+### Estudiante de Ingeniería Informática en la Universidad de León
 
 ## ACERCA DE MÍ 👩🏽‍💻
 
