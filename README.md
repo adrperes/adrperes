@@ -32,5 +32,6 @@ Me apasiona la robótica y la programación. Me interesé por la informática no
 - **Email unileon:** [aperea16@estudiantes.unileon.es](mailto:aperea16@estudiantes.unileon.es)
 - **Email personal:** [adriana.perezz.alvarez@gmail.es](mailto:adriana.perezz.alvarez@gmail.es)
   
+---
 
-*"Nunca dejes de aprender, porque la tecnología nunca deja de avanzar."*
+
