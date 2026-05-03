@@ -6,9 +6,7 @@
 
 Me apasiona la robótica y la programación. Me interesé por la informática no solo por la tecnología en sí, sino por el reto constante de tener siempre una meta nueva que alcanzar y la satisfacción de aprender algo distinto en cada proyecto.🤖
 
----
-
-##  Tecnologías y Herramientas
+## TECNOLOGÍAS Y HERRAMIENTAS 
 
 ### Lenguajes
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
